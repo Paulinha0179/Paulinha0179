@@ -2,6 +2,8 @@
 
 🌱 I am studying to become a Computer Technician. In this course, I am learning about networks and infrastructure, operating systems, and development.
 
+🎉 I'm 37 years old
+
 🎓 I'm taking this course at SENAC Tatuapé.
 
 📱 Currently Working At: Claro SA
@@ -41,7 +43,7 @@
 
 
 ## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulinha0179&layout=compact&theme=radical)](https://github.com/seuusuario)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspoliveiraa&layout=compact&theme=radical)](https://github.com/seuusuario)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paulinha0179&show_icons=true&theme=radical)
