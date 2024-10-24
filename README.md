@@ -2,8 +2,6 @@
 
 🌱 I am studying to become a Computer Technician. In this course, I am learning about networks and infrastructure, operating systems, and development.
 
-🎉 I'm 37 years old
-
 🎓 I'm taking this course at SENAC Tatuapé.
 
 📱 Currently Working At: Claro SA
